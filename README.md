@@ -1,4 +1,4 @@
-# Machine-Learning-Notes
+## Machine-Learning-Notes
 
 # Conclusions for Linear, Ridge and Lasso  in practical implementation
 # Credit: Krish Naik Playlist for Machine Learning
